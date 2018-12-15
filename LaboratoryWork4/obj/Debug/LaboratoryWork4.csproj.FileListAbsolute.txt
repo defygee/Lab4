@@ -1,0 +1,20 @@
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.csprojAssemblyReference.cache
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.Form1.resources
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.Properties.Resources.resources
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.csproj.GenerateResource.cache
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\bin\Debug\LaboratoryWork4.exe.config
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\bin\Debug\LaboratoryWork4.exe
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\bin\Debug\LaboratoryWork4.pdb
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.exe
+C:\Users\Alexey\source\repos\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.pdb
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\bin\Debug\LaboratoryWork4.exe.config
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\bin\Debug\LaboratoryWork4.exe
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\bin\Debug\LaboratoryWork4.pdb
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.csprojAssemblyReference.cache
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.Form1.resources
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.Properties.Resources.resources
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.csproj.GenerateResource.cache
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.exe
+C:\Users\Alexey\Desktop\ЛАБА ПО БКИТ\LaboratoryWork4\LaboratoryWork4\obj\Debug\LaboratoryWork4.pdb
